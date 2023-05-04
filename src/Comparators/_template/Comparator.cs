@@ -19,7 +19,7 @@ namespace DocumentPlagiarismChecker.Comparators._template
         }  
                
         /// <summary>        
-        /// Runs the Comparator and check (whatever you want to code) between the left and right files.
+        /// Runs the Comparator a
         /// <returns>The matching score and its details.</returns>
         /// </summary>
         public override ComparatorMatchingScore Run(){          
