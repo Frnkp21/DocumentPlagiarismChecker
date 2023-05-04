@@ -20,6 +20,7 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
     /// <typeparam name="Document"></typeparam>
     internal class Comparator: Core.BaseComparator<Document>
     {  
+        /// Hola que ase, comentando de nuevas desde mi canal. RAIMONPEGA
         /// <summary>
         /// Creates a new instance for the Comparator.
         /// </summary>
